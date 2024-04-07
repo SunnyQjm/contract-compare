@@ -1,0 +1,11 @@
+{
+ "vulnerabilities": {
+  "callstack": true, 
+  "reentrancy": true, 
+  "time_dependency": false, 
+  "integer_overflow": [], 
+  "integer_underflow": [], 
+  "money_concurrency": true
+ }, 
+ "evm_code_coverage": "59.1"
+}
